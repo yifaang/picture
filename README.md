@@ -1,0 +1,2 @@
+# picture
+blog need picture
